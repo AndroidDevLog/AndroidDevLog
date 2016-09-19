@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">8.File</string>
+    <string name="save">save to file</string>
+    <string name="load">load from file</string>
+    <string name="delete">delete file</string>
+    <string name="filename">file</string>
+</resources>
