@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">7.Preference</string>
+    <string name="save">savePreference</string>
+    <string name="load">loadPreference</string>
+    <string name="preferenceKey">preferenceKey</string>
+</resources>
