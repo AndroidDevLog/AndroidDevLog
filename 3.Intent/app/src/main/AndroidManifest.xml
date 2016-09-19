@@ -15,9 +15,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <!--android:parentActivityName属性声明了在应用程序中该Activity逻辑层面的父类Activity的名称-->
+        <!--系统使用此值来实现默认导航操作-->
         <activity android:name=".DisplayMessageActivity"
+            android:parentActivityName=".MainActivity"
             android:label="@string/title_activity_display_message" >
-
+            <!--为安卓旧版本提供相同功能-->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"
+                />
         </activity>
     </application>
 
