@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">12.Shared</string>
+    <string name="send_to">This is a test from iosdevlog.</string>
+    <string name="menu_share">Share</string>
+</resources>
