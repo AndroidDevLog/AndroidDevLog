@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">10.IntentSending</string>
+    <string name="chooser_title">share</string>
+</resources>
