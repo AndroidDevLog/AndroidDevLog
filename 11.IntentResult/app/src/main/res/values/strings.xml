@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">11.IntentResult</string>
+    <string name="hint">Choose Contacts</string>
+</resources>
