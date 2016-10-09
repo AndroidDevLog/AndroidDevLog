@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">24.LaunchMode-singleTask</string>
+    <string name="introduce">使用 singleTop 模式可以很好地解决重复创建栈顶活动的问题，但是正如你在上一节所 看到的，如果该活动并没有处于栈顶的位置，还是可能会创建多个活动实例的。那么有没有 什么办法可以让某个活动在整个应用程序的上下文中只存在一个实例呢?这就要借助 singleTask 模式来实现了。当活动的启动模式指定为 singleTask，每次启动该活动时系统首先 会在返回栈中检查是否存在该活动的实例，如果发现已经存在则直接使用该实例，并把在这 个活动之上的所有活动统统出栈，如果没有发现就会创建一个新的活动实例。</string>
+    <string name="new_main_activity">New Main Activity</string>
+    <string name="new_detail_activity">New Detail Activity</string>
+</resources>
