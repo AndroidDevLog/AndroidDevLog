@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">25.LaunchMode-singleInstance</string>
+    <string name="introduce">singleInstance模式应该算是四种启动模式中最特殊也最复杂的一个了，你也需要多花点 功夫来理解这个模式。不同于以上三种启动模式，指定为singleInstance模式的活动会启用一 个新的返回栈来管理这个活动(其实如果 singleTask 模式指定了不同的 taskAffinity，也会启 动一个新的返回栈)。那么这样做有什么意义呢?想象以下场景，假设我们的程序中有一个 活动是允许其他程序调用的，如果我们想实现其他程序和我们的程序可以共享这个活动的实 例，应该如何实现呢?使用前面三种启动模式肯定是做不到的，因为每个应用程序都会有自 己的返回栈，同一个活动在不同的返回栈中入栈时必然是创建了新的实例。而使用 singleInstance模式就可以解决这个问题，在这种模式下会有一个单独的返回栈来管理这个活 动，不管是哪个应用程序来访问这个活动，都共用的同一个返回栈，也就解决了共享活动实 例的问题。</string>
+    <string name="new_main_activity">New Main Activity</string>
+    <string name="new_detail_activity">New Detail Activity</string>
+    <string name="detail">press back button</string>
+</resources>
