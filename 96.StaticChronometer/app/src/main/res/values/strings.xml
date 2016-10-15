@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">96. Static Chronometer</string>
+    <string name="chronometer">Chronometer</string>
+    <string name="clear_format">Clear Format</string>
+    <string name="restart">Restart</string>
+    <string name="set_format">Set Format</string>
+    <string name="start">Start</string>
+    <string name="static_chronometer">Static Chronometer</string>
+    <string name="stop">Stop</string>
+</resources>
