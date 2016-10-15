@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">105. Static RelativeLayout</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="toggle_button">Toggle Button</string>
+    <string name="togglebutton">ToggleButton</string>
+</resources>
