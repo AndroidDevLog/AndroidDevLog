@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">150. View Switcher</string>
+    <string name="loading">Loading...</string>
+    <string name="finished">Finished!</string>
+</resources>
