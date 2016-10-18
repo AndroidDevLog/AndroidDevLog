@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">153. Dynamic Request Focus</string>
+    <string name="edittext_1">EditText 1</string>
+    <string name="edittext_2">EditText 2</string>
+</resources>
