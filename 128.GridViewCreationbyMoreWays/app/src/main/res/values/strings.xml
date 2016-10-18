@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">128. GridView Creation by More Ways</string>
+    <string-array name="str1">
+        <item>Grid 1</item>
+        <item>Grid 2</item>
+        <item>Grid 3</item>
+        <item>Grid 4</item>
+        <item>Grid 5</item>
+        <item>Grid 6</item>
+    </string-array>
+</resources>
