@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">137. Top to Bottom Sliding Drawer</string>
+    <string name="handle">Handle</string>
+    <string name="honeycomb">HoneyComb</string>
+    <string name="ice_cream_sandwich">Ice Cream Sandwich</string>
+    <string name="jelly_bean">Jelly Bean</string>
+    <string name="top_to_bottom_sliding">Top to Bottom Sliding</string>
+</resources>
