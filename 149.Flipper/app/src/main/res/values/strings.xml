@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">149. Flipper</string>
+    <string name="previous">Previous</string>
+    <string name="flipper_content_1">Flipper Content 1</string>
+    <string name="flipper_content_2">Flipper Content 2</string>
+    <string name="flipper_content_3">Flipper Content 3</string>
+    <string name="flipper_content_4">Flipper Content 4</string>
+    <string name="next">Next</string>
+</resources>
