@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">181. Check IP Address based HttpURLConnection</string>
+    <string name="checking_connection">Checking Connection..</string>
+    <string name="httpurlconnection_nip_based">HttpURLConnection\nIP Based</string>
+</resources>

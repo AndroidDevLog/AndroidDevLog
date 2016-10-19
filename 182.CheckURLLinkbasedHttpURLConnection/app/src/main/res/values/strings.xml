@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">182. Check URL Link based HttpURLConnection</string>
+    <string name="checking_connection">Checking Connection..</string>
+    <string name="httpurlconnection_nurl_based">HttpURLConnection\nURL Based</string>
+</resources>
