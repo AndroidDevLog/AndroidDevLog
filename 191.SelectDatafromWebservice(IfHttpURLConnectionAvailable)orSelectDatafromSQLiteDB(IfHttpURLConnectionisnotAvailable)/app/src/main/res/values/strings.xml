@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">191. Select Data from Webservice (If HttpURLConnection Available) or Select Data from SQLite DB (If HttpURLConnection is not Available)</string>
+</resources>
