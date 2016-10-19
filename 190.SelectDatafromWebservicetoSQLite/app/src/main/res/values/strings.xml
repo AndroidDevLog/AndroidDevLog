@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">190. Select Data from Webservice to SQLite</string>
+    <string name="get_data_from_webservice">Get Data from Webservice</string>
+    <string name="sqlite_webservice">SQLite - Webservice</string>
+    <string name="select_data_from_sqlite">Select Data from SQLite</string>
+    <string name="store_data_into_sqlite">Store Data into SQLite</string>
+</resources>
