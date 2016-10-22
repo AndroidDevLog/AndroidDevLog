@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">220. Handle Mathematical Solution</string>
+    <string name="enter_co_efficient_of_x_0">Enter Co-efficient of x^0</string>
+    <string name="enter_co_efficient_of_x_1">Enter Co-efficient of x^1</string>
+    <string name="enter_co_efficient_of_x_2">Enter Co-efficient of x^2</string>
+    <string name="factorisation">Factorisation</string>
+    <string name="get_solution">Get Solution</string>
+    <string name="x1">x1</string>
+    <string name="x2">x2</string>
+    <string name="differentiation">Differentiation</string>
+    <string name="enter_n_value_here">Enter \'n\' Value here</string>
+    <string name="gooooooo">Gooooooo</string>
+    <string name="linear_equation">Linear Equation</string>
+    <string name="a1">a1</string>
+    <string name="a2">a2</string>
+    <string name="b1">b1</string>
+    <string name="b2">b2</string>
+    <string name="c1">c1</string>
+    <string name="c2">c2</string>
+    <string name="x_value">x value</string>
+    <string name="y_value">y value</string>
+    <string name="integration">Integration</string>
+    <string name="handle_mathematical_solution_in_android">Handle Mathematical Solution in Android</string>
+    <string name="select_your_chapter_below">Select your Chapter below</string>
+</resources>
