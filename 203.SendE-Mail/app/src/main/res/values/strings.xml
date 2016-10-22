@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">203. Send E-Mail</string>
+    <string name="message">Message</string>
+    <string name="send_e_mail">Send E-Mail</string>
+    <string name="subject">Subject</string>
+    <string name="to">To</string>
+    <string name="cc">cc</string>
+</resources>
