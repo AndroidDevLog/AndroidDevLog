@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">221. College Notice Board</string>
+    <string name="samplecodez">SampleCodez</string>
+    <string name="college_notice_board">College Notice Board</string>
+    <string name="go">Go</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
