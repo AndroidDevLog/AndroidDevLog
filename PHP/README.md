@@ -22,6 +22,10 @@ alias mysqladmin='/usr/local/mysql/bin/mysqladmin'
 
 ## REBOOT computer
 
+## mysql script
+
+http://www.sampleprogramz.com/android/
+
 ## change root password and create table
 
 ```bash
