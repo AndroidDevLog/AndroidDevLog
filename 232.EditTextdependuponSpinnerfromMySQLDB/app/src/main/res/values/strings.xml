@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">232. EditText depend upon Spinner from MySQL DB</string>
+    <string name="edittext">EditText</string>
+</resources>
