@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">230. Shake to call Next Page Activity</string>
+    <string name="shake_to_open_next_activity">Shake to Open Next Activity</string>
+    <string name="welcome_to_next_page_activity">WelCome to Next Page Activity..</string>
+    <string name="title_activity_next_page">NextPage</string>
+</resources>

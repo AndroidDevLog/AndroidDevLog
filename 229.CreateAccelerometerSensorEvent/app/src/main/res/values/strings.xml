@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">229. Create Accelerometer Sensor Event</string>
+    <string name="accelerometer_shake">Accelerometer - Shake</string>
+</resources>
