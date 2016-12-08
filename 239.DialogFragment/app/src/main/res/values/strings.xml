@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">239. DialogFragment</string>
+    <string name="text_DialogFragment">BasicDialogFragment</string>
+    <string name="text_AlertDialogFragment">AlertDialogFragment</string>
+    <string name="text_yes">Yes</string>
+    <string name="text_no">No</string>
+    <string name="dialogSimpleFragmentPrompt">Prompt</string>
+    <string name="alert_dialog_ok">Ok</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="alert_dialog_two_buttons_title">alert title</string>
+</resources>
